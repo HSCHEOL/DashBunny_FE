@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">🐰 DashBunny 🚀</h1>
+<p align="center">숏츠 기반의 직관적 탐색과 몰입감 있는 경험을 제공하는 혁신적인 배달 플랫폼</p>
 
-## Getting Started
+<img src="https://github.com/user-attachments/assets/8e27abbe-7c9e-4553-bbb8-5aefe27c17f1" alt="DashBunny" style="width: 100%;">
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### **📖 프로젝트 소개**  
+DashBunny는 기존 배달 플랫폼에 숏츠(Shorts) 기능을 결합하여, 사용자들이 짧은 영상을 통해 메뉴를 직관적으로 탐색하고, 바로 주문까지 가능하도록 한 혁신적인 배달 서비스입니다.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🎥 **숏츠 기반 기능**  
+- 음식 조리 과정, 플레이팅, 실시간 리뷰를 짧은 영상으로 제공.  
+- 사용자에게는 시각적 경험을, 음식점에는 브랜드 강화 효과.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+✨ **핵심 목표**  
+- 기존 텍스트 및 이미지 중심 탐색 방식을 대체.  
+- 개인화된 추천과 간편한 UI/UX로 라이프스타일 플랫폼으로 확장.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+### **📋 주요 도메인 및 기능**
 
-To learn more about Next.js, take a look at the following resources:
+#### **1️⃣ 소비자 (Customer)**  
+DashBunny의 핵심 사용자로, 숏츠 기반의 메뉴 탐색 및 주문 경험을 제공합니다.  
+- **주요 기능**  
+  - 숏츠 영상 탐색 및 실시간 리뷰 확인.  
+  - 숏츠에서 바로 주문 가능.  
+  - 주문 상태 조회 및 실시간 알림.  
+  - 과거 주문 내역 및 리뷰 작성.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🖼️ **GIF 데모**  
+> ![소비자 GIF](링크를-여기에-추가하세요)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+#### **2️⃣ 사장 (Owner)**  
+음식점을 운영하며 DashBunny 플랫폼에서 숏츠를 활용해 브랜드를 홍보하고 매출을 관리합니다.  
+- **주요 기능**  
+  - 숏츠 업로드 및 관리.  
+  - 실시간 주문 접수 및 상태 업데이트.  
+  - 매출 통계 및 분석 확인.  
+  - 사용자 리뷰 관리.  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🖼️ **GIF 데모**  
+> ![사장 GIF](링크를-여기에-추가하세요)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+#### **3️⃣ 관리자 (Admin)**  
+DashBunny 플랫폼의 안정적인 운영을 지원하며, 사용자 및 시스템을 관리합니다.  
+- **주요 기능**  
+  - 전체 주문 및 사용자 데이터 관리.  
+  - 플랫폼 내 부적절한 콘텐츠 모니터링 및 제재.  
+  - 시스템 상태 점검 및 유지보수.  
+  - 사장 및 소비자 계정 관리.  
+
+🖼️ **GIF 데모**  
+> ![관리자 GIF](링크를-여기에-추가하세요)
+
+---
+
+### **🎨 UI 미리보기**  
+플랫폼의 주요 페이지와 숏츠 영상 탐색 기능을 한눈에 확인할 수 있습니다.  
+
+📌 **주요 화면**  
+- 숏츠 탐색 화면  
+- 주문 상세 화면  
+- 관리자 대시보드  
+
+> (주요 화면 캡처 이미지 또는 GIF 추가)
+
+---
+
+### **📄 라이선스**  
+이 프로젝트는 [MIT 라이선스](LICENSE)를 따릅니다. 자유롭게 수정 및 배포할 수 있습니다.
+
+---
+
+### **📞 문의하기**  
+- **Email**: your.email@example.com  
+- **GitHub**: [https://github.com/your-repo](https://github.com/your-repo)  
