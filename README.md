@@ -71,11 +71,3 @@ DashBunny 플랫폼의 안정적인 운영을 지원하며, 사용자 및 시스
 
 ---
 
-### **📄 라이선스**  
-이 프로젝트는 [MIT 라이선스](LICENSE)를 따릅니다. 자유롭게 수정 및 배포할 수 있습니다.
-
----
-
-### **📞 문의하기**  
-- **Email**: your.email@example.com  
-- **GitHub**: [https://github.com/your-repo](https://github.com/your-repo)  
