@@ -172,3 +172,80 @@ https://github.com/user-attachments/assets/1e136a51-56ed-4634-b1dc-7e882b8c29b9
   [REST API 명세서](https://team1-4.gitbook.io/team1)
 
 ---
+
+<h3 align="center">📌 팀원 소개</h3>
+
+<div>
+<table align="center">
+  <tbody>
+    <!-- 첫 번째 행: 팀원 이름 -->
+    <tr>
+      <td align="center"><b>채호정</b></td>
+      <td align="center"><b>최근태</b></td>
+      <td align="center"><b>도승우</b></td>
+      <td align="center"><b>한승희</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Hojeong016">
+          <img src="https://avatars.githubusercontent.com/Hojeong016" width="100px;" alt="채호정 프로필 사진"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/GeunTae-C">
+           <img src="https://avatars.githubusercontent.com/GeunTae-C" width="100px;" alt="최근태 프로필 사진"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/MagongDo">
+        <img src="https://avatars.githubusercontent.com/MagongDo" width="100px;" alt="도승우 프로필 사진"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/SeungHuiHan">
+          <img src="https://avatars.githubusercontent.com/SeungHuiHan" width="100px;" alt="한승희 프로필 사진"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>BE 팀장<br/>사장님 도메인<br>주문 도메인</b></td>
+      <td align="center"><b>BE<br/>회원 및 로그인<br/>쇼츠<br/>배달원 도메인<br/></b></td>
+      <td align="center"><b>BE<br/>시용자 도메인<br/>결제</b></td>
+      <td align="center"><b>BE<br/>관리자 도메인<br/>쿠폰 도메인</td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center">
+  <tbody>
+    <!-- 첫 번째 행: 팀원 이름 -->
+    <tr>
+      <td align="center"><b>한승철</b></td>
+      <td align="center"><b>김용환</b></td>
+      <td align="center"><b>최수진</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/HSCHEOL">
+          <img src="https://avatars.githubusercontent.com/HSCHEOL" width="100px;" alt="한승철 프로필 사진"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yonghwna">
+           <img src="https://avatars.githubusercontent.com/yonghwna" width="100px;" alt="김용환 프로필 사진"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/tomatto0">
+        <img src="https://avatars.githubusercontent.com/tomatto0" width="100px;" alt="최수진 프로필 사진"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>FE 팀장<br/>관리자 도메인</b>
+      <td align="center"><b>FE<br/>소비자 도메인<br/>쇼츠</b>
+      <td align="center"><b>FE<br/>시용자 도메인</b>
+    </tr>
+  </tbody>
+</table>
+</div>
