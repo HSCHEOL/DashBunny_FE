@@ -40,10 +40,11 @@
   <img width="652" src="https://github.com/user-attachments/assets/8e3f5915-6d21-42cb-a5c7-f6cab43815e5" alt="소비자 기능4"><br>
 </p>  
 
-<p align="center">🖼️ <b>GIF 데모</b></p>  
-<p align="center">
-  ![소비자 GIF](링크를-여기에-추가하세요)
-</p>
+<p align="center">🖼️ <b>소비자 도메인 시연영상</b></p>  
+
+https://github.com/user-attachments/assets/7e23c58a-a2c6-457e-84a0-d9790fdae849
+
+
 
 ---
 
@@ -55,10 +56,10 @@
   <img width="1435" src="https://github.com/user-attachments/assets/ab3fe416-2fe2-4b64-a7a0-7a1082d3c1b8" alt="사장 기능">
 </p>  
 
-<p align="center">🖼️ <b>GIF 데모</b></p>  
-<p align="center">
-  ![사장 GIF](링크를-여기에-추가하세요)
-</p>
+<p align="center">🖼️ <b>사장님 도메인 시연영상</b></p>  
+
+https://github.com/user-attachments/assets/c74ed85d-9cbb-403a-b9a2-d02fc80321d9
+
 
 ---
 
@@ -70,23 +71,65 @@
   <img width="1438" src="https://github.com/user-attachments/assets/cb664f31-adcf-438b-9da5-65b7e09791dc" alt="관리자 기능">
 </p>  
 
-<p align="center">🖼️ <b>GIF 데모</b></p>  
-<p align="center">
-  ![관리자 GIF](링크를-여기에-추가하세요)
-</p>
+<p align="center">🖼️ <b>관리자 도메인 시연영상</b></p>  
+
+https://github.com/user-attachments/assets/1e136a51-56ed-4634-b1dc-7e882b8c29b9
+
 
 ---
 
-### **<p align="center">🎨 UI 미리보기</p>**  
-<p align="center">플랫폼의 주요 페이지와 숏츠 영상 탐색 기능을 한눈에 확인할 수 있습니다.</p>  
+## 📋 아키텍처
+![image](https://github.com/user-attachments/assets/a35e6f62-5e4e-4b8b-a647-9297a25310a1)
 
-<p align="center">📌 <b>주요 화면</b></p>  
-<p align="center">
-- 숏츠 탐색 화면<br>
-- 주문 상세 화면<br>
-- 관리자 대시보드<br>
-</p>  
+---
 
-<p align="center">(주요 화면 캡처 이미지 또는 GIF 추가)</p>
+## 📚 기술 스택 (Tech Stack)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### Serialization
+![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-336691?style=flat&logo=protobuf&logoColor=white)
+
+### Core Development Stack
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+### Event Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![SSE](https://img.shields.io/badge/Spring%20SSE-6DB33F?style=flat&logo=java&logoColor=white)
+
+### 외부 API
+![Kakao Login](https://img.shields.io/badge/Kakao%20Login-FFCD00?style=flat&logo=kakao&logoColor=white)
+![CoolSMS](https://img.shields.io/badge/CoolSMS-008ED2?style=flat&logo=twilio&logoColor=white)
+![Toss Payments](https://img.shields.io/badge/Toss%20Payments-0054FF?style=flat&logo=tosspayments&logoColor=white)
+![Kakao Map](https://img.shields.io/badge/Kakao%20Map-FFCD00?style=flat&logo=kakao&logoColor=white)
+![Geocoding Library](https://img.shields.io/badge/Geocoding%20Library-4E73DF?style=flat&logo=google-maps&logoColor=white)
+
+### Tester
+ - 성능 및 부하 테스트 도구.  
+  ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)  
+ - 네트워크 트래픽 분석 도구.  
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
+  
+---
+
+## 📋 설계도
+
+- **ERD**
+           
+![image](https://github.com/user-attachments/assets/bcf22f74-51b7-4c79-845f-0da499da39d2)
+
+
+- **요구사항 정의서**
+  
+  https://docs.google.com/spreadsheets/d/1SIp4nXwJ0ElFOywPJW0efp9M_8tOnuo6Mcc7AePjCrI/edit?gid=657969246#gid=657969246
+  
+- **REST API 명세서**
+
+  https://team1-4.gitbook.io/team1
 
 ---
