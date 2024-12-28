@@ -243,8 +243,8 @@ https://github.com/user-attachments/assets/1e136a51-56ed-4634-b1dc-7e882b8c29b9
     </tr>
     <tr>
       <td align="center"><b>FE 팀장<br/>관리자 도메인</b>
-      <td align="center"><b>FE<br/>소비자 도메인<br/>쇼츠</b>
-      <td align="center"><b>FE<br/>시용자 도메인</b>
+      <td align="center"><b>FE<br/>사용자 도메인<br/>쇼츠</b>
+      <td align="center"><b>FE<br/>시장님 도메인</b>
     </tr>
   </tbody>
 </table>
