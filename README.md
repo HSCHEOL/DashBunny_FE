@@ -78,58 +78,55 @@ https://github.com/user-attachments/assets/1e136a51-56ed-4634-b1dc-7e882b8c29b9
 
 ---
 
-## 📋 아키텍처
+<h2 align="center">📋 아키텍처</h2>
+
 ![image](https://github.com/user-attachments/assets/a35e6f62-5e4e-4b8b-a647-9297a25310a1)
 
 ---
 
-## 📚 기술 스택 (Tech Stack)
+<h2 align="center">📚 기술 스택</h2>
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+<table align="center">
+  <tr>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" /></li>
+        <li><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></li>
+        <li><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></li>
+        <li><img src="https://img.shields.io/badge/Zustand-3A86FF?style=flat&logoColor=white" alt="Zustand" /> <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react-query&logoColor=white" alt="React Query" /></li>
+        <li><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" /></li>
+        <li><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" /></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" /></li>
+        <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" /></li>
+        <li><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Apache Kafka" /> <img src="https://img.shields.io/badge/Spring%20SSE-6DB33F?style=flat&logo=java&logoColor=white" alt="Spring SSE" /></li>
+        <li><img src="https://img.shields.io/badge/Protocol%20Buffers-336691?style=flat&logo=protobuf&logoColor=white" alt="Protocol Buffers" /></li>
+        <li><img src="https://img.shields.io/badge/Kakao%20Login-FFCD00?style=flat&logo=kakao&logoColor=white" alt="Kakao Login" /> <img src="https://img.shields.io/badge/Kakao%20Map-FFCD00?style=flat&logo=kakao&logoColor=white" alt="Kakao Map" /> <img src="https://img.shields.io/badge/Toss%20Payments-0054FF?style=flat&logo=tosspayments&logoColor=white" alt="Toss Payments" /> <img src="https://img.shields.io/badge/CoolSMS-008ED2?style=flat&logo=twilio&logoColor=white" alt="CoolSMS" /></li>
+        <li><img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white" alt="Amazon S3" /></li>
+        <li><img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white" alt="Apache JMeter" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" /></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Serialization
-![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-336691?style=flat&logo=protobuf&logoColor=white)
-
-### Core Development Stack
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-### Event Streaming
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![SSE](https://img.shields.io/badge/Spring%20SSE-6DB33F?style=flat&logo=java&logoColor=white)
-
-### 외부 API
-![Kakao Login](https://img.shields.io/badge/Kakao%20Login-FFCD00?style=flat&logo=kakao&logoColor=white)
-![CoolSMS](https://img.shields.io/badge/CoolSMS-008ED2?style=flat&logo=twilio&logoColor=white)
-![Toss Payments](https://img.shields.io/badge/Toss%20Payments-0054FF?style=flat&logo=tosspayments&logoColor=white)
-![Kakao Map](https://img.shields.io/badge/Kakao%20Map-FFCD00?style=flat&logo=kakao&logoColor=white)
-![Geocoding Library](https://img.shields.io/badge/Geocoding%20Library-4E73DF?style=flat&logo=google-maps&logoColor=white)
-
-### Tester
- - 성능 및 부하 테스트 도구.  
-  ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)  
- - 네트워크 트래픽 분석 도구.  
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
-  
 ---
 
-## 📋 설계도
+<h2 align="center">📚 설계도</h2>
 
-- **ERD**
+**ERD**
            
 ![image](https://github.com/user-attachments/assets/bcf22f74-51b7-4c79-845f-0da499da39d2)
 
 
-- **요구사항 정의서**
-  
-  https://docs.google.com/spreadsheets/d/1SIp4nXwJ0ElFOywPJW0efp9M_8tOnuo6Mcc7AePjCrI/edit?gid=657969246#gid=657969246
-  
-- **REST API 명세서**
-
-  https://team1-4.gitbook.io/team1
+  [요구사항 정의서](https://docs.google.com/spreadsheets/d/1SIp4nXwJ0ElFOywPJW0efp9M_8tOnuo6Mcc7AePjCrI/edit?gid=657969246#gid=657969246)
+  <br/>
+  [REST API 명세서](https://team1-4.gitbook.io/team1)
 
 ---
